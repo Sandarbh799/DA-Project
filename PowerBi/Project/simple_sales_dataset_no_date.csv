@@ -1,0 +1,801 @@
+Order_ID,Product,Category,Quantity,Price,Sales,City,Payment_Method,Order_Status,Customer_Name
+O00001,Tablet,Electronics,2,26375,52750,Chennai,Cash,Completed,Customer_138
+O00002,Mobile,Electronics,3,38693,116079,Mumbai,Card,Completed,Customer_23
+O00003,Smart Watch,Wearables,4,5078,20312,Pune,Cash,Cancelled,Customer_109
+O00004,Laptop,Electronics,5,8613,43065,Pune,Cash,Cancelled,Customer_150
+O00005,Smart Watch,Wearables,1,14988,14988,Mumbai,Card,Pending,Customer_108
+O00006,Headphones,Accessories,5,8219,41095,Hyderabad,UPI,Cancelled,Customer_175
+O00007,Headphones,Accessories,1,38615,38615,Hyderabad,Card,Pending,Customer_25
+O00008,Mobile,Electronics,5,4406,22030,Hyderabad,Card,Pending,Customer_175
+O00009,Smart Watch,Wearables,3,31013,93039,Hyderabad,Net Banking,Pending,Customer_77
+O00010,Keyboard,Accessories,2,46309,92618,Kolkata,Card,Completed,Customer_148
+O00011,Mouse,Accessories,5,32947,164735,Delhi,Net Banking,Pending,Customer_156
+O00012,Mobile,Electronics,1,34050,34050,Bangalore,Card,Pending,Customer_39
+O00013,Camera,Electronics,4,3069,12276,Chennai,Cash,Cancelled,Customer_147
+O00014,Tablet,Electronics,3,46066,138198,Delhi,Net Banking,Cancelled,Customer_117
+O00015,Mobile,Electronics,1,18190,18190,Bangalore,Cash,Completed,Customer_188
+O00016,Mouse,Accessories,5,45145,225725,Kolkata,Net Banking,Pending,Customer_184
+O00017,Smart Watch,Wearables,3,1978,5934,Bangalore,UPI,Completed,Customer_157
+O00018,Mobile,Electronics,4,4363,17452,Pune,UPI,Completed,Customer_190
+O00019,Keyboard,Accessories,4,26121,104484,Kolkata,Net Banking,Completed,Customer_43
+O00020,Camera,Electronics,4,36508,146032,Delhi,Card,Pending,Customer_141
+O00021,Mouse,Accessories,4,24012,96048,Chennai,Net Banking,Completed,Customer_39
+O00022,Mobile,Electronics,2,10415,20830,Pune,Card,Completed,Customer_125
+O00023,Headphones,Accessories,3,18976,56928,Mumbai,Card,Pending,Customer_137
+O00024,Tablet,Electronics,5,37615,188075,Delhi,Card,Cancelled,Customer_132
+O00025,Laptop,Electronics,4,45102,180408,Kolkata,Net Banking,Pending,Customer_103
+O00026,Smart Watch,Wearables,1,32057,32057,Chennai,Net Banking,Completed,Customer_49
+O00027,Mobile,Electronics,2,29376,58752,Pune,Cash,Pending,Customer_154
+O00028,Laptop,Electronics,1,515,515,Hyderabad,Card,Cancelled,Customer_26
+O00029,Tablet,Electronics,5,2171,10855,Mumbai,Card,Cancelled,Customer_97
+O00030,Headphones,Accessories,3,23266,69798,Hyderabad,UPI,Pending,Customer_32
+O00031,Mobile,Electronics,4,31039,124156,Bangalore,Net Banking,Pending,Customer_22
+O00032,Headphones,Accessories,1,49630,49630,Delhi,UPI,Pending,Customer_178
+O00033,Headphones,Accessories,5,2013,10065,Pune,UPI,Completed,Customer_177
+O00034,Laptop,Electronics,5,20035,100175,Chennai,Cash,Cancelled,Customer_67
+O00035,Tablet,Electronics,2,23810,47620,Kolkata,Card,Cancelled,Customer_139
+O00036,Tablet,Electronics,2,40688,81376,Kolkata,Card,Completed,Customer_103
+O00037,Keyboard,Accessories,2,34423,68846,Bangalore,UPI,Cancelled,Customer_8
+O00038,Laptop,Electronics,3,31448,94344,Delhi,Card,Cancelled,Customer_155
+O00039,Tablet,Electronics,4,47890,191560,Delhi,UPI,Completed,Customer_57
+O00040,Mobile,Electronics,2,31307,62614,Pune,UPI,Completed,Customer_124
+O00041,Laptop,Electronics,4,43293,173172,Delhi,Cash,Cancelled,Customer_31
+O00042,Smart Watch,Wearables,2,31828,63656,Pune,Net Banking,Cancelled,Customer_86
+O00043,Mobile,Electronics,4,30853,123412,Bangalore,Cash,Cancelled,Customer_41
+O00044,Headphones,Accessories,2,2305,4610,Pune,Net Banking,Cancelled,Customer_38
+O00045,Camera,Electronics,3,10717,32151,Hyderabad,Card,Completed,Customer_4
+O00046,Mobile,Electronics,5,49618,248090,Pune,Net Banking,Completed,Customer_55
+O00047,Laptop,Electronics,3,14444,43332,Delhi,Card,Cancelled,Customer_84
+O00048,Mouse,Accessories,5,27960,139800,Kolkata,Card,Completed,Customer_190
+O00049,Tablet,Electronics,4,43915,175660,Hyderabad,Net Banking,Cancelled,Customer_34
+O00050,Headphones,Accessories,5,33959,169795,Mumbai,Net Banking,Completed,Customer_156
+O00051,Laptop,Electronics,2,11794,23588,Pune,Net Banking,Cancelled,Customer_186
+O00052,Mobile,Electronics,5,4547,22735,Delhi,Net Banking,Completed,Customer_144
+O00053,Laptop,Electronics,2,13037,26074,Delhi,Cash,Completed,Customer_130
+O00054,Camera,Electronics,5,2326,11630,Kolkata,Cash,Pending,Customer_84
+O00055,Keyboard,Accessories,3,30144,90432,Hyderabad,Net Banking,Cancelled,Customer_64
+O00056,Mouse,Accessories,5,13776,68880,Kolkata,Net Banking,Completed,Customer_107
+O00057,Mobile,Electronics,4,29474,117896,Delhi,Cash,Cancelled,Customer_62
+O00058,Smart Watch,Wearables,1,14438,14438,Chennai,UPI,Completed,Customer_199
+O00059,Headphones,Accessories,3,9870,29610,Delhi,Card,Pending,Customer_57
+O00060,Mobile,Electronics,4,32433,129732,Pune,Card,Completed,Customer_181
+O00061,Smart Watch,Wearables,5,26964,134820,Delhi,Net Banking,Completed,Customer_92
+O00062,Tablet,Electronics,1,47826,47826,Delhi,Cash,Pending,Customer_142
+O00063,Camera,Electronics,4,46581,186324,Mumbai,Net Banking,Pending,Customer_133
+O00064,Mouse,Accessories,5,4713,23565,Mumbai,Card,Completed,Customer_22
+O00065,Mouse,Accessories,3,3094,9282,Kolkata,Card,Pending,Customer_194
+O00066,Headphones,Accessories,4,44800,179200,Kolkata,UPI,Pending,Customer_39
+O00067,Camera,Electronics,3,6362,19086,Delhi,Cash,Cancelled,Customer_47
+O00068,Smart Watch,Wearables,1,18124,18124,Mumbai,Cash,Pending,Customer_22
+O00069,Keyboard,Accessories,1,17831,17831,Kolkata,Cash,Pending,Customer_3
+O00070,Tablet,Electronics,5,27878,139390,Delhi,Card,Completed,Customer_135
+O00071,Keyboard,Accessories,1,11080,11080,Delhi,Cash,Completed,Customer_52
+O00072,Mouse,Accessories,3,35305,105915,Kolkata,Card,Pending,Customer_115
+O00073,Headphones,Accessories,3,23241,69723,Kolkata,Cash,Pending,Customer_10
+O00074,Laptop,Electronics,1,48543,48543,Hyderabad,Card,Cancelled,Customer_122
+O00075,Keyboard,Accessories,4,7465,29860,Chennai,Net Banking,Cancelled,Customer_127
+O00076,Smart Watch,Wearables,5,20670,103350,Chennai,Card,Completed,Customer_88
+O00077,Keyboard,Accessories,2,27022,54044,Delhi,Cash,Completed,Customer_4
+O00078,Mobile,Electronics,3,28729,86187,Pune,Cash,Completed,Customer_171
+O00079,Smart Watch,Wearables,5,44444,222220,Delhi,Card,Cancelled,Customer_76
+O00080,Laptop,Electronics,4,12647,50588,Pune,UPI,Pending,Customer_1
+O00081,Mouse,Accessories,3,22056,66168,Hyderabad,UPI,Completed,Customer_9
+O00082,Mouse,Accessories,2,23869,47738,Pune,Cash,Pending,Customer_98
+O00083,Mobile,Electronics,4,18779,75116,Hyderabad,Card,Completed,Customer_130
+O00084,Laptop,Electronics,1,17812,17812,Kolkata,Cash,Completed,Customer_103
+O00085,Laptop,Electronics,4,1974,7896,Delhi,UPI,Cancelled,Customer_60
+O00086,Mobile,Electronics,5,35180,175900,Kolkata,Card,Cancelled,Customer_184
+O00087,Smart Watch,Wearables,3,47730,143190,Bangalore,Card,Pending,Customer_186
+O00088,Headphones,Accessories,1,47358,47358,Hyderabad,Net Banking,Cancelled,Customer_180
+O00089,Headphones,Accessories,5,49839,249195,Hyderabad,Cash,Cancelled,Customer_150
+O00090,Keyboard,Accessories,1,2542,2542,Mumbai,Card,Cancelled,Customer_93
+O00091,Mobile,Electronics,4,30082,120328,Hyderabad,Cash,Cancelled,Customer_5
+O00092,Keyboard,Accessories,4,17787,71148,Mumbai,Net Banking,Completed,Customer_192
+O00093,Mobile,Electronics,5,4828,24140,Chennai,Net Banking,Pending,Customer_20
+O00094,Mouse,Accessories,2,48297,96594,Kolkata,Card,Completed,Customer_190
+O00095,Camera,Electronics,4,25571,102284,Mumbai,Net Banking,Cancelled,Customer_74
+O00096,Laptop,Electronics,5,41970,209850,Chennai,Card,Completed,Customer_154
+O00097,Headphones,Accessories,3,17142,51426,Chennai,UPI,Cancelled,Customer_146
+O00098,Headphones,Accessories,1,32115,32115,Mumbai,Net Banking,Pending,Customer_173
+O00099,Mobile,Electronics,2,44783,89566,Bangalore,UPI,Cancelled,Customer_133
+O00100,Mouse,Accessories,4,31033,124132,Bangalore,Cash,Cancelled,Customer_52
+O00101,Mouse,Accessories,1,31494,31494,Mumbai,UPI,Pending,Customer_20
+O00102,Camera,Electronics,3,25852,77556,Pune,Card,Completed,Customer_149
+O00103,Mobile,Electronics,2,49487,98974,Hyderabad,UPI,Pending,Customer_34
+O00104,Mouse,Accessories,1,46593,46593,Delhi,Card,Pending,Customer_125
+O00105,Smart Watch,Wearables,1,10924,10924,Mumbai,Net Banking,Cancelled,Customer_116
+O00106,Smart Watch,Wearables,3,48156,144468,Pune,Net Banking,Pending,Customer_97
+O00107,Tablet,Electronics,1,22213,22213,Mumbai,UPI,Pending,Customer_102
+O00108,Mobile,Electronics,2,47228,94456,Mumbai,UPI,Pending,Customer_96
+O00109,Mobile,Electronics,4,26069,104276,Kolkata,Cash,Pending,Customer_110
+O00110,Mouse,Accessories,1,18891,18891,Mumbai,Cash,Cancelled,Customer_74
+O00111,Headphones,Accessories,2,17914,35828,Bangalore,UPI,Completed,Customer_198
+O00112,Tablet,Electronics,4,2401,9604,Kolkata,Net Banking,Cancelled,Customer_141
+O00113,Keyboard,Accessories,1,3742,3742,Chennai,Net Banking,Pending,Customer_158
+O00114,Headphones,Accessories,3,32322,96966,Mumbai,Card,Completed,Customer_121
+O00115,Smart Watch,Wearables,3,18964,56892,Delhi,UPI,Cancelled,Customer_190
+O00116,Mouse,Accessories,4,43491,173964,Pune,UPI,Pending,Customer_143
+O00117,Smart Watch,Wearables,1,11466,11466,Chennai,Card,Completed,Customer_54
+O00118,Camera,Electronics,5,14919,74595,Bangalore,UPI,Pending,Customer_110
+O00119,Headphones,Accessories,5,13109,65545,Pune,Cash,Completed,Customer_88
+O00120,Mobile,Electronics,3,16171,48513,Delhi,UPI,Cancelled,Customer_52
+O00121,Laptop,Electronics,4,25589,102356,Bangalore,Card,Pending,Customer_70
+O00122,Tablet,Electronics,1,33146,33146,Delhi,UPI,Completed,Customer_176
+O00123,Keyboard,Accessories,1,18261,18261,Pune,Net Banking,Pending,Customer_166
+O00124,Camera,Electronics,4,20948,83792,Kolkata,Cash,Completed,Customer_9
+O00125,Smart Watch,Wearables,4,38981,155924,Bangalore,Cash,Completed,Customer_101
+O00126,Camera,Electronics,4,16783,67132,Kolkata,Cash,Completed,Customer_40
+O00127,Headphones,Accessories,5,45200,226000,Mumbai,Net Banking,Completed,Customer_142
+O00128,Laptop,Electronics,1,8734,8734,Pune,Cash,Cancelled,Customer_184
+O00129,Mouse,Accessories,2,41556,83112,Delhi,Net Banking,Cancelled,Customer_196
+O00130,Mobile,Electronics,1,5110,5110,Delhi,Card,Pending,Customer_67
+O00131,Keyboard,Accessories,5,575,2875,Mumbai,UPI,Pending,Customer_72
+O00132,Tablet,Electronics,2,31649,63298,Hyderabad,Card,Cancelled,Customer_64
+O00133,Laptop,Electronics,4,46680,186720,Chennai,UPI,Completed,Customer_6
+O00134,Keyboard,Accessories,4,44701,178804,Chennai,Net Banking,Completed,Customer_66
+O00135,Keyboard,Accessories,4,24762,99048,Pune,Net Banking,Completed,Customer_179
+O00136,Tablet,Electronics,4,24244,96976,Chennai,Net Banking,Completed,Customer_2
+O00137,Mouse,Accessories,5,4919,24595,Pune,Net Banking,Completed,Customer_80
+O00138,Keyboard,Accessories,2,30981,61962,Pune,UPI,Pending,Customer_28
+O00139,Camera,Electronics,5,12775,63875,Pune,Net Banking,Pending,Customer_171
+O00140,Laptop,Electronics,5,10093,50465,Bangalore,Cash,Completed,Customer_7
+O00141,Headphones,Accessories,4,3897,15588,Chennai,Cash,Completed,Customer_101
+O00142,Camera,Electronics,3,48519,145557,Mumbai,Cash,Completed,Customer_85
+O00143,Keyboard,Accessories,2,43260,86520,Hyderabad,Net Banking,Completed,Customer_80
+O00144,Smart Watch,Wearables,3,22238,66714,Bangalore,Card,Completed,Customer_1
+O00145,Mobile,Electronics,3,5792,17376,Delhi,Net Banking,Completed,Customer_144
+O00146,Keyboard,Accessories,4,23872,95488,Kolkata,UPI,Pending,Customer_23
+O00147,Laptop,Electronics,4,13326,53304,Delhi,Net Banking,Completed,Customer_83
+O00148,Tablet,Electronics,4,2484,9936,Chennai,Net Banking,Completed,Customer_161
+O00149,Smart Watch,Wearables,1,25113,25113,Mumbai,Net Banking,Completed,Customer_16
+O00150,Mouse,Accessories,2,49474,98948,Mumbai,UPI,Pending,Customer_70
+O00151,Tablet,Electronics,5,3356,16780,Delhi,UPI,Pending,Customer_77
+O00152,Laptop,Electronics,5,42048,210240,Mumbai,Cash,Completed,Customer_28
+O00153,Camera,Electronics,4,25830,103320,Kolkata,UPI,Pending,Customer_127
+O00154,Headphones,Accessories,4,12489,49956,Mumbai,UPI,Cancelled,Customer_198
+O00155,Headphones,Accessories,5,15975,79875,Delhi,UPI,Pending,Customer_93
+O00156,Mobile,Electronics,5,13431,67155,Bangalore,Card,Completed,Customer_105
+O00157,Mobile,Electronics,1,32068,32068,Hyderabad,UPI,Completed,Customer_110
+O00158,Mobile,Electronics,1,17859,17859,Hyderabad,Cash,Completed,Customer_25
+O00159,Smart Watch,Wearables,4,47015,188060,Bangalore,Card,Completed,Customer_35
+O00160,Smart Watch,Wearables,4,41152,164608,Chennai,Card,Cancelled,Customer_138
+O00161,Mobile,Electronics,3,19753,59259,Delhi,UPI,Pending,Customer_66
+O00162,Mouse,Accessories,2,29296,58592,Pune,Card,Completed,Customer_61
+O00163,Headphones,Accessories,3,38398,115194,Pune,UPI,Completed,Customer_102
+O00164,Mouse,Accessories,2,33748,67496,Hyderabad,Card,Cancelled,Customer_26
+O00165,Camera,Electronics,1,7206,7206,Mumbai,Net Banking,Completed,Customer_115
+O00166,Tablet,Electronics,1,19746,19746,Pune,Cash,Completed,Customer_49
+O00167,Keyboard,Accessories,1,24894,24894,Hyderabad,Card,Pending,Customer_155
+O00168,Mouse,Accessories,1,7432,7432,Chennai,UPI,Completed,Customer_10
+O00169,Tablet,Electronics,3,9764,29292,Mumbai,Card,Pending,Customer_10
+O00170,Keyboard,Accessories,1,21946,21946,Bangalore,UPI,Completed,Customer_159
+O00171,Mouse,Accessories,1,13830,13830,Mumbai,Net Banking,Cancelled,Customer_124
+O00172,Mobile,Electronics,4,7144,28576,Kolkata,Net Banking,Cancelled,Customer_141
+O00173,Headphones,Accessories,5,6473,32365,Chennai,Card,Pending,Customer_179
+O00174,Mouse,Accessories,4,19066,76264,Chennai,UPI,Pending,Customer_14
+O00175,Mouse,Accessories,5,23908,119540,Bangalore,Net Banking,Completed,Customer_197
+O00176,Tablet,Electronics,2,26106,52212,Chennai,Net Banking,Completed,Customer_2
+O00177,Smart Watch,Wearables,2,28271,56542,Mumbai,Cash,Pending,Customer_148
+O00178,Tablet,Electronics,4,11152,44608,Pune,Cash,Completed,Customer_142
+O00179,Headphones,Accessories,4,6334,25336,Hyderabad,UPI,Cancelled,Customer_130
+O00180,Headphones,Accessories,2,23302,46604,Delhi,Card,Cancelled,Customer_44
+O00181,Mobile,Electronics,1,25648,25648,Bangalore,Card,Pending,Customer_33
+O00182,Laptop,Electronics,4,21112,84448,Mumbai,Net Banking,Completed,Customer_183
+O00183,Headphones,Accessories,2,41201,82402,Bangalore,Card,Pending,Customer_47
+O00184,Keyboard,Accessories,1,26697,26697,Hyderabad,Card,Pending,Customer_92
+O00185,Mobile,Electronics,2,16691,33382,Chennai,Card,Completed,Customer_144
+O00186,Laptop,Electronics,3,8215,24645,Bangalore,Net Banking,Cancelled,Customer_161
+O00187,Mouse,Accessories,4,20698,82792,Hyderabad,Card,Pending,Customer_100
+O00188,Tablet,Electronics,4,33502,134008,Bangalore,Card,Completed,Customer_1
+O00189,Camera,Electronics,4,15917,63668,Bangalore,Net Banking,Completed,Customer_122
+O00190,Smart Watch,Wearables,1,4898,4898,Pune,UPI,Pending,Customer_94
+O00191,Mobile,Electronics,4,33552,134208,Hyderabad,Cash,Completed,Customer_163
+O00192,Headphones,Accessories,1,48569,48569,Delhi,Cash,Completed,Customer_193
+O00193,Smart Watch,Wearables,2,2194,4388,Kolkata,Cash,Cancelled,Customer_188
+O00194,Mobile,Electronics,2,9125,18250,Bangalore,UPI,Completed,Customer_176
+O00195,Keyboard,Accessories,1,23496,23496,Hyderabad,UPI,Completed,Customer_83
+O00196,Mouse,Accessories,4,9909,39636,Delhi,Net Banking,Completed,Customer_152
+O00197,Mouse,Accessories,5,33661,168305,Pune,UPI,Pending,Customer_10
+O00198,Keyboard,Accessories,2,26941,53882,Pune,UPI,Cancelled,Customer_84
+O00199,Smart Watch,Wearables,2,17823,35646,Mumbai,Cash,Cancelled,Customer_93
+O00200,Camera,Electronics,5,34673,173365,Hyderabad,Cash,Pending,Customer_138
+O00201,Smart Watch,Wearables,3,17850,53550,Bangalore,UPI,Cancelled,Customer_38
+O00202,Tablet,Electronics,3,5833,17499,Bangalore,Card,Completed,Customer_158
+O00203,Laptop,Electronics,3,34323,102969,Delhi,UPI,Cancelled,Customer_150
+O00204,Tablet,Electronics,1,49463,49463,Mumbai,Card,Completed,Customer_75
+O00205,Smart Watch,Wearables,4,34098,136392,Delhi,Cash,Completed,Customer_126
+O00206,Keyboard,Accessories,5,43302,216510,Mumbai,Cash,Completed,Customer_1
+O00207,Tablet,Electronics,3,7470,22410,Hyderabad,UPI,Cancelled,Customer_58
+O00208,Smart Watch,Wearables,5,20236,101180,Hyderabad,Card,Completed,Customer_94
+O00209,Camera,Electronics,2,9330,18660,Mumbai,Card,Cancelled,Customer_39
+O00210,Camera,Electronics,1,4672,4672,Chennai,Card,Cancelled,Customer_70
+O00211,Smart Watch,Wearables,3,1253,3759,Mumbai,UPI,Cancelled,Customer_166
+O00212,Camera,Electronics,5,34420,172100,Chennai,Net Banking,Completed,Customer_43
+O00213,Laptop,Electronics,1,4532,4532,Hyderabad,Cash,Pending,Customer_48
+O00214,Keyboard,Accessories,2,4325,8650,Kolkata,Cash,Completed,Customer_157
+O00215,Keyboard,Accessories,2,27578,55156,Pune,Net Banking,Cancelled,Customer_45
+O00216,Mouse,Accessories,1,20178,20178,Chennai,Cash,Cancelled,Customer_123
+O00217,Laptop,Electronics,4,29116,116464,Chennai,Net Banking,Completed,Customer_190
+O00218,Camera,Electronics,2,15307,30614,Mumbai,UPI,Completed,Customer_165
+O00219,Laptop,Electronics,1,22488,22488,Chennai,UPI,Cancelled,Customer_14
+O00220,Mouse,Accessories,5,45014,225070,Bangalore,UPI,Pending,Customer_165
+O00221,Keyboard,Accessories,1,33754,33754,Mumbai,Card,Pending,Customer_61
+O00222,Keyboard,Accessories,2,49399,98798,Delhi,Card,Pending,Customer_85
+O00223,Keyboard,Accessories,4,41833,167332,Chennai,Net Banking,Pending,Customer_136
+O00224,Laptop,Electronics,1,29153,29153,Chennai,Card,Cancelled,Customer_79
+O00225,Keyboard,Accessories,4,41304,165216,Hyderabad,Cash,Cancelled,Customer_44
+O00226,Headphones,Accessories,1,2263,2263,Mumbai,Cash,Cancelled,Customer_42
+O00227,Tablet,Electronics,2,46423,92846,Mumbai,Cash,Completed,Customer_36
+O00228,Laptop,Electronics,1,48785,48785,Mumbai,Cash,Cancelled,Customer_196
+O00229,Tablet,Electronics,2,35489,70978,Chennai,Cash,Cancelled,Customer_99
+O00230,Mobile,Electronics,2,13982,27964,Pune,Cash,Completed,Customer_9
+O00231,Mobile,Electronics,3,31768,95304,Mumbai,Card,Completed,Customer_194
+O00232,Keyboard,Accessories,3,21415,64245,Delhi,Net Banking,Pending,Customer_6
+O00233,Tablet,Electronics,3,19020,57060,Mumbai,UPI,Pending,Customer_197
+O00234,Camera,Electronics,3,41019,123057,Chennai,Cash,Pending,Customer_8
+O00235,Smart Watch,Wearables,5,6942,34710,Delhi,Net Banking,Cancelled,Customer_13
+O00236,Keyboard,Accessories,1,38153,38153,Kolkata,UPI,Completed,Customer_112
+O00237,Laptop,Electronics,5,13740,68700,Delhi,Cash,Completed,Customer_90
+O00238,Camera,Electronics,1,32709,32709,Chennai,Card,Pending,Customer_152
+O00239,Tablet,Electronics,5,17577,87885,Hyderabad,Card,Pending,Customer_55
+O00240,Keyboard,Accessories,4,11365,45460,Mumbai,Cash,Pending,Customer_179
+O00241,Mobile,Electronics,3,23805,71415,Mumbai,Net Banking,Pending,Customer_191
+O00242,Mobile,Electronics,4,42827,171308,Mumbai,UPI,Completed,Customer_78
+O00243,Mouse,Accessories,4,36212,144848,Hyderabad,Card,Pending,Customer_162
+O00244,Keyboard,Accessories,4,8815,35260,Hyderabad,Cash,Pending,Customer_149
+O00245,Tablet,Electronics,5,10679,53395,Kolkata,Net Banking,Cancelled,Customer_142
+O00246,Tablet,Electronics,2,30853,61706,Bangalore,UPI,Cancelled,Customer_60
+O00247,Headphones,Accessories,3,30778,92334,Chennai,Card,Cancelled,Customer_50
+O00248,Mouse,Accessories,3,49962,149886,Chennai,Card,Cancelled,Customer_40
+O00249,Keyboard,Accessories,3,40011,120033,Hyderabad,UPI,Completed,Customer_61
+O00250,Tablet,Electronics,2,17453,34906,Chennai,Cash,Completed,Customer_169
+O00251,Mobile,Electronics,2,25681,51362,Pune,Card,Pending,Customer_188
+O00252,Mouse,Accessories,4,18445,73780,Pune,Cash,Cancelled,Customer_28
+O00253,Mouse,Accessories,2,25950,51900,Bangalore,Cash,Completed,Customer_103
+O00254,Smart Watch,Wearables,2,33299,66598,Chennai,UPI,Pending,Customer_6
+O00255,Headphones,Accessories,3,40064,120192,Chennai,Net Banking,Completed,Customer_190
+O00256,Keyboard,Accessories,4,46451,185804,Hyderabad,Net Banking,Completed,Customer_171
+O00257,Keyboard,Accessories,2,42543,85086,Mumbai,Net Banking,Pending,Customer_81
+O00258,Mouse,Accessories,1,27997,27997,Pune,Net Banking,Cancelled,Customer_183
+O00259,Headphones,Accessories,3,28259,84777,Bangalore,Net Banking,Completed,Customer_160
+O00260,Smart Watch,Wearables,5,44752,223760,Chennai,Card,Cancelled,Customer_84
+O00261,Laptop,Electronics,4,32602,130408,Mumbai,Cash,Pending,Customer_140
+O00262,Keyboard,Accessories,2,47437,94874,Kolkata,Card,Cancelled,Customer_90
+O00263,Mobile,Electronics,5,30435,152175,Hyderabad,Card,Cancelled,Customer_122
+O00264,Laptop,Electronics,3,34689,104067,Delhi,Net Banking,Cancelled,Customer_117
+O00265,Keyboard,Accessories,2,26222,52444,Hyderabad,Cash,Cancelled,Customer_158
+O00266,Tablet,Electronics,1,17045,17045,Delhi,Net Banking,Pending,Customer_16
+O00267,Laptop,Electronics,1,27932,27932,Bangalore,UPI,Cancelled,Customer_68
+O00268,Mobile,Electronics,2,20389,40778,Chennai,Net Banking,Cancelled,Customer_57
+O00269,Smart Watch,Wearables,4,14394,57576,Pune,Card,Completed,Customer_163
+O00270,Keyboard,Accessories,4,42587,170348,Hyderabad,Card,Completed,Customer_91
+O00271,Smart Watch,Wearables,4,19790,79160,Kolkata,Card,Pending,Customer_91
+O00272,Keyboard,Accessories,3,46650,139950,Bangalore,UPI,Pending,Customer_174
+O00273,Headphones,Accessories,4,676,2704,Kolkata,UPI,Pending,Customer_63
+O00274,Mouse,Accessories,3,31927,95781,Bangalore,Net Banking,Cancelled,Customer_164
+O00275,Mobile,Electronics,3,10510,31530,Delhi,Net Banking,Completed,Customer_22
+O00276,Tablet,Electronics,2,35276,70552,Kolkata,UPI,Cancelled,Customer_150
+O00277,Laptop,Electronics,1,14246,14246,Mumbai,UPI,Pending,Customer_156
+O00278,Mobile,Electronics,5,9854,49270,Kolkata,Card,Completed,Customer_199
+O00279,Camera,Electronics,3,10505,31515,Pune,Net Banking,Cancelled,Customer_43
+O00280,Mobile,Electronics,5,42219,211095,Kolkata,UPI,Completed,Customer_127
+O00281,Keyboard,Accessories,5,5652,28260,Chennai,Net Banking,Cancelled,Customer_30
+O00282,Mobile,Electronics,3,27962,83886,Pune,Card,Pending,Customer_127
+O00283,Laptop,Electronics,4,31111,124444,Pune,Net Banking,Completed,Customer_128
+O00284,Headphones,Accessories,5,39795,198975,Kolkata,Cash,Completed,Customer_83
+O00285,Camera,Electronics,5,33111,165555,Chennai,UPI,Pending,Customer_96
+O00286,Smart Watch,Wearables,4,44798,179192,Mumbai,Card,Cancelled,Customer_93
+O00287,Laptop,Electronics,1,40455,40455,Mumbai,UPI,Completed,Customer_131
+O00288,Camera,Electronics,4,9969,39876,Mumbai,Card,Cancelled,Customer_107
+O00289,Headphones,Accessories,3,6690,20070,Kolkata,UPI,Pending,Customer_122
+O00290,Keyboard,Accessories,3,29020,87060,Delhi,Net Banking,Pending,Customer_142
+O00291,Laptop,Electronics,3,19694,59082,Delhi,Net Banking,Pending,Customer_86
+O00292,Mouse,Accessories,5,23097,115485,Pune,Net Banking,Completed,Customer_85
+O00293,Keyboard,Accessories,3,47239,141717,Delhi,Card,Cancelled,Customer_163
+O00294,Mobile,Electronics,1,26640,26640,Chennai,Net Banking,Cancelled,Customer_147
+O00295,Laptop,Electronics,4,20187,80748,Mumbai,Cash,Completed,Customer_49
+O00296,Camera,Electronics,5,43623,218115,Mumbai,Net Banking,Cancelled,Customer_38
+O00297,Mobile,Electronics,2,3086,6172,Chennai,Net Banking,Cancelled,Customer_196
+O00298,Headphones,Accessories,1,43990,43990,Pune,Cash,Pending,Customer_199
+O00299,Mobile,Electronics,1,24674,24674,Kolkata,Card,Pending,Customer_144
+O00300,Mouse,Accessories,3,12609,37827,Bangalore,Cash,Pending,Customer_6
+O00301,Smart Watch,Wearables,5,42558,212790,Hyderabad,Cash,Pending,Customer_146
+O00302,Laptop,Electronics,1,28095,28095,Hyderabad,Net Banking,Pending,Customer_18
+O00303,Laptop,Electronics,4,39419,157676,Hyderabad,Card,Pending,Customer_198
+O00304,Smart Watch,Wearables,5,7187,35935,Mumbai,Net Banking,Completed,Customer_39
+O00305,Laptop,Electronics,4,813,3252,Mumbai,Cash,Completed,Customer_56
+O00306,Mobile,Electronics,2,31454,62908,Mumbai,UPI,Cancelled,Customer_146
+O00307,Keyboard,Accessories,4,48574,194296,Chennai,Card,Completed,Customer_94
+O00308,Headphones,Accessories,1,19711,19711,Chennai,Net Banking,Pending,Customer_172
+O00309,Mouse,Accessories,1,47503,47503,Mumbai,Cash,Completed,Customer_4
+O00310,Mobile,Electronics,4,20885,83540,Delhi,Card,Pending,Customer_156
+O00311,Laptop,Electronics,3,24588,73764,Hyderabad,Net Banking,Pending,Customer_174
+O00312,Headphones,Accessories,2,8148,16296,Delhi,Card,Cancelled,Customer_107
+O00313,Camera,Electronics,4,30171,120684,Delhi,UPI,Pending,Customer_72
+O00314,Laptop,Electronics,5,43160,215800,Chennai,UPI,Cancelled,Customer_186
+O00315,Laptop,Electronics,2,39896,79792,Kolkata,UPI,Cancelled,Customer_110
+O00316,Keyboard,Accessories,4,25885,103540,Chennai,Net Banking,Cancelled,Customer_198
+O00317,Keyboard,Accessories,4,19066,76264,Chennai,Cash,Pending,Customer_68
+O00318,Mouse,Accessories,4,10807,43228,Hyderabad,Cash,Pending,Customer_37
+O00319,Headphones,Accessories,3,36403,109209,Chennai,Net Banking,Pending,Customer_137
+O00320,Mobile,Electronics,5,36785,183925,Bangalore,Net Banking,Completed,Customer_193
+O00321,Keyboard,Accessories,3,40273,120819,Mumbai,Net Banking,Pending,Customer_182
+O00322,Keyboard,Accessories,3,38929,116787,Kolkata,Cash,Pending,Customer_118
+O00323,Mobile,Electronics,5,23772,118860,Kolkata,Cash,Completed,Customer_102
+O00324,Mouse,Accessories,5,21536,107680,Bangalore,Card,Completed,Customer_55
+O00325,Keyboard,Accessories,1,12341,12341,Kolkata,UPI,Pending,Customer_148
+O00326,Tablet,Electronics,4,34396,137584,Kolkata,Card,Completed,Customer_12
+O00327,Camera,Electronics,3,7454,22362,Delhi,Net Banking,Completed,Customer_40
+O00328,Tablet,Electronics,5,2489,12445,Delhi,UPI,Cancelled,Customer_156
+O00329,Laptop,Electronics,1,2700,2700,Pune,Net Banking,Cancelled,Customer_146
+O00330,Keyboard,Accessories,3,18838,56514,Bangalore,Cash,Pending,Customer_197
+O00331,Headphones,Accessories,3,2981,8943,Delhi,Card,Completed,Customer_97
+O00332,Mobile,Electronics,1,3842,3842,Mumbai,UPI,Cancelled,Customer_118
+O00333,Camera,Electronics,1,39694,39694,Chennai,Net Banking,Completed,Customer_181
+O00334,Mobile,Electronics,3,21387,64161,Hyderabad,Card,Cancelled,Customer_23
+O00335,Smart Watch,Wearables,2,29882,59764,Kolkata,Card,Pending,Customer_61
+O00336,Keyboard,Accessories,2,3031,6062,Delhi,UPI,Completed,Customer_142
+O00337,Laptop,Electronics,1,17401,17401,Kolkata,Net Banking,Completed,Customer_26
+O00338,Headphones,Accessories,3,49976,149928,Mumbai,Card,Cancelled,Customer_192
+O00339,Mouse,Accessories,5,39262,196310,Bangalore,Cash,Pending,Customer_83
+O00340,Tablet,Electronics,3,26062,78186,Mumbai,UPI,Pending,Customer_98
+O00341,Headphones,Accessories,4,16127,64508,Kolkata,Card,Cancelled,Customer_4
+O00342,Camera,Electronics,2,2860,5720,Pune,Card,Completed,Customer_159
+O00343,Tablet,Electronics,2,29810,59620,Mumbai,Net Banking,Completed,Customer_161
+O00344,Mobile,Electronics,4,22767,91068,Delhi,Card,Pending,Customer_30
+O00345,Tablet,Electronics,2,22256,44512,Pune,Cash,Completed,Customer_183
+O00346,Camera,Electronics,5,9983,49915,Bangalore,Card,Pending,Customer_108
+O00347,Smart Watch,Wearables,2,10703,21406,Mumbai,UPI,Cancelled,Customer_76
+O00348,Tablet,Electronics,2,17583,35166,Bangalore,Cash,Pending,Customer_117
+O00349,Camera,Electronics,1,10551,10551,Hyderabad,Cash,Cancelled,Customer_172
+O00350,Keyboard,Accessories,5,31790,158950,Kolkata,UPI,Completed,Customer_66
+O00351,Keyboard,Accessories,3,28815,86445,Delhi,Card,Completed,Customer_25
+O00352,Smart Watch,Wearables,3,27739,83217,Pune,Cash,Cancelled,Customer_76
+O00353,Headphones,Accessories,1,29474,29474,Kolkata,UPI,Cancelled,Customer_36
+O00354,Camera,Electronics,1,35010,35010,Delhi,Card,Pending,Customer_112
+O00355,Laptop,Electronics,4,14804,59216,Delhi,Card,Completed,Customer_47
+O00356,Keyboard,Accessories,2,13391,26782,Hyderabad,Cash,Completed,Customer_156
+O00357,Camera,Electronics,3,11989,35967,Pune,Card,Cancelled,Customer_172
+O00358,Keyboard,Accessories,5,20687,103435,Pune,Cash,Completed,Customer_178
+O00359,Smart Watch,Wearables,1,34477,34477,Kolkata,UPI,Pending,Customer_73
+O00360,Camera,Electronics,1,1512,1512,Bangalore,Net Banking,Completed,Customer_171
+O00361,Mouse,Accessories,2,12693,25386,Hyderabad,UPI,Completed,Customer_42
+O00362,Tablet,Electronics,5,39487,197435,Kolkata,Cash,Pending,Customer_134
+O00363,Camera,Electronics,5,5175,25875,Mumbai,UPI,Cancelled,Customer_63
+O00364,Tablet,Electronics,4,38269,153076,Kolkata,Cash,Pending,Customer_28
+O00365,Camera,Electronics,4,34140,136560,Mumbai,Card,Completed,Customer_63
+O00366,Mobile,Electronics,2,41071,82142,Pune,Card,Completed,Customer_80
+O00367,Mouse,Accessories,5,2470,12350,Mumbai,Cash,Cancelled,Customer_190
+O00368,Keyboard,Accessories,3,1659,4977,Kolkata,Net Banking,Cancelled,Customer_62
+O00369,Camera,Electronics,1,23483,23483,Kolkata,Cash,Cancelled,Customer_46
+O00370,Laptop,Electronics,3,8564,25692,Bangalore,Net Banking,Cancelled,Customer_129
+O00371,Mouse,Accessories,1,8497,8497,Mumbai,Net Banking,Completed,Customer_139
+O00372,Keyboard,Accessories,2,10148,20296,Chennai,Net Banking,Cancelled,Customer_102
+O00373,Headphones,Accessories,1,42114,42114,Bangalore,Net Banking,Cancelled,Customer_155
+O00374,Laptop,Electronics,4,3905,15620,Kolkata,UPI,Pending,Customer_103
+O00375,Keyboard,Accessories,3,47392,142176,Bangalore,UPI,Pending,Customer_144
+O00376,Laptop,Electronics,3,34406,103218,Pune,UPI,Completed,Customer_109
+O00377,Laptop,Electronics,3,7645,22935,Hyderabad,Card,Completed,Customer_84
+O00378,Smart Watch,Wearables,2,33580,67160,Chennai,Cash,Completed,Customer_36
+O00379,Smart Watch,Wearables,4,30235,120940,Chennai,Cash,Completed,Customer_9
+O00380,Mouse,Accessories,5,18419,92095,Chennai,Cash,Cancelled,Customer_26
+O00381,Mouse,Accessories,1,34598,34598,Mumbai,Net Banking,Completed,Customer_11
+O00382,Mouse,Accessories,1,20515,20515,Delhi,Card,Completed,Customer_16
+O00383,Mouse,Accessories,1,31067,31067,Hyderabad,Card,Pending,Customer_32
+O00384,Headphones,Accessories,3,27143,81429,Hyderabad,UPI,Pending,Customer_63
+O00385,Mobile,Electronics,5,19319,96595,Kolkata,Net Banking,Cancelled,Customer_178
+O00386,Keyboard,Accessories,4,13685,54740,Hyderabad,UPI,Pending,Customer_141
+O00387,Mouse,Accessories,5,31816,159080,Bangalore,UPI,Completed,Customer_63
+O00388,Tablet,Electronics,2,12873,25746,Hyderabad,Net Banking,Cancelled,Customer_102
+O00389,Laptop,Electronics,3,11136,33408,Kolkata,Card,Pending,Customer_143
+O00390,Tablet,Electronics,4,18189,72756,Delhi,Card,Pending,Customer_15
+O00391,Laptop,Electronics,2,36618,73236,Mumbai,UPI,Pending,Customer_169
+O00392,Laptop,Electronics,5,25920,129600,Kolkata,Net Banking,Pending,Customer_189
+O00393,Mobile,Electronics,5,15256,76280,Chennai,Card,Pending,Customer_87
+O00394,Tablet,Electronics,2,44759,89518,Pune,UPI,Cancelled,Customer_25
+O00395,Camera,Electronics,3,41831,125493,Chennai,Card,Pending,Customer_27
+O00396,Laptop,Electronics,4,36541,146164,Hyderabad,Cash,Pending,Customer_102
+O00397,Headphones,Accessories,4,18804,75216,Kolkata,Cash,Pending,Customer_116
+O00398,Camera,Electronics,3,47886,143658,Delhi,UPI,Pending,Customer_101
+O00399,Smart Watch,Wearables,3,943,2829,Kolkata,Net Banking,Pending,Customer_114
+O00400,Mouse,Accessories,2,35684,71368,Delhi,Card,Pending,Customer_148
+O00401,Smart Watch,Wearables,5,15700,78500,Mumbai,UPI,Pending,Customer_156
+O00402,Keyboard,Accessories,3,13889,41667,Bangalore,Cash,Completed,Customer_13
+O00403,Mouse,Accessories,5,33093,165465,Delhi,UPI,Cancelled,Customer_159
+O00404,Smart Watch,Wearables,5,34399,171995,Chennai,Net Banking,Pending,Customer_119
+O00405,Tablet,Electronics,1,39475,39475,Chennai,UPI,Pending,Customer_3
+O00406,Mobile,Electronics,5,15525,77625,Mumbai,Net Banking,Pending,Customer_129
+O00407,Smart Watch,Wearables,5,38121,190605,Pune,Card,Pending,Customer_125
+O00408,Smart Watch,Wearables,4,41434,165736,Hyderabad,UPI,Cancelled,Customer_136
+O00409,Mobile,Electronics,2,24271,48542,Delhi,UPI,Completed,Customer_80
+O00410,Headphones,Accessories,1,43486,43486,Delhi,UPI,Cancelled,Customer_108
+O00411,Headphones,Accessories,5,19500,97500,Kolkata,Card,Cancelled,Customer_49
+O00412,Smart Watch,Wearables,2,4443,8886,Chennai,Cash,Pending,Customer_146
+O00413,Laptop,Electronics,4,1203,4812,Kolkata,Cash,Pending,Customer_182
+O00414,Laptop,Electronics,3,26554,79662,Kolkata,Cash,Cancelled,Customer_4
+O00415,Laptop,Electronics,2,11981,23962,Bangalore,UPI,Cancelled,Customer_137
+O00416,Headphones,Accessories,5,13511,67555,Bangalore,Cash,Completed,Customer_41
+O00417,Mobile,Electronics,1,7060,7060,Mumbai,Card,Cancelled,Customer_126
+O00418,Camera,Electronics,5,28721,143605,Kolkata,Cash,Cancelled,Customer_4
+O00419,Tablet,Electronics,2,47388,94776,Pune,UPI,Pending,Customer_44
+O00420,Laptop,Electronics,3,41702,125106,Mumbai,Cash,Pending,Customer_50
+O00421,Camera,Electronics,5,25774,128870,Mumbai,Cash,Completed,Customer_102
+O00422,Laptop,Electronics,4,4077,16308,Hyderabad,Card,Completed,Customer_58
+O00423,Laptop,Electronics,2,38969,77938,Kolkata,Card,Pending,Customer_2
+O00424,Camera,Electronics,3,27918,83754,Hyderabad,UPI,Pending,Customer_18
+O00425,Keyboard,Accessories,4,44730,178920,Chennai,Card,Pending,Customer_80
+O00426,Smart Watch,Wearables,4,1969,7876,Kolkata,Card,Completed,Customer_45
+O00427,Headphones,Accessories,3,25338,76014,Pune,Cash,Pending,Customer_102
+O00428,Tablet,Electronics,1,22455,22455,Hyderabad,Net Banking,Pending,Customer_104
+O00429,Mobile,Electronics,1,28174,28174,Kolkata,UPI,Cancelled,Customer_63
+O00430,Smart Watch,Wearables,2,31106,62212,Delhi,UPI,Completed,Customer_112
+O00431,Laptop,Electronics,3,44033,132099,Mumbai,UPI,Completed,Customer_62
+O00432,Headphones,Accessories,1,13364,13364,Delhi,Card,Cancelled,Customer_114
+O00433,Camera,Electronics,2,10934,21868,Delhi,UPI,Completed,Customer_185
+O00434,Smart Watch,Wearables,4,41744,166976,Hyderabad,Card,Pending,Customer_122
+O00435,Keyboard,Accessories,2,30167,60334,Chennai,Card,Cancelled,Customer_67
+O00436,Camera,Electronics,5,24616,123080,Hyderabad,Card,Pending,Customer_156
+O00437,Keyboard,Accessories,2,49696,99392,Mumbai,Cash,Cancelled,Customer_70
+O00438,Smart Watch,Wearables,1,43591,43591,Chennai,Card,Pending,Customer_4
+O00439,Smart Watch,Wearables,1,46025,46025,Pune,Card,Pending,Customer_49
+O00440,Mobile,Electronics,1,37330,37330,Delhi,UPI,Completed,Customer_17
+O00441,Mouse,Accessories,1,15338,15338,Delhi,Card,Cancelled,Customer_103
+O00442,Mouse,Accessories,3,26935,80805,Kolkata,Net Banking,Cancelled,Customer_161
+O00443,Headphones,Accessories,3,12060,36180,Mumbai,UPI,Cancelled,Customer_170
+O00444,Tablet,Electronics,4,2155,8620,Chennai,Net Banking,Completed,Customer_103
+O00445,Tablet,Electronics,1,12405,12405,Delhi,Cash,Pending,Customer_156
+O00446,Keyboard,Accessories,1,27019,27019,Mumbai,Card,Pending,Customer_51
+O00447,Mouse,Accessories,2,25452,50904,Chennai,Cash,Cancelled,Customer_80
+O00448,Headphones,Accessories,5,15419,77095,Hyderabad,Net Banking,Cancelled,Customer_134
+O00449,Mouse,Accessories,4,44417,177668,Chennai,UPI,Completed,Customer_29
+O00450,Mouse,Accessories,1,38846,38846,Hyderabad,Cash,Completed,Customer_175
+O00451,Mobile,Electronics,1,21376,21376,Pune,UPI,Cancelled,Customer_23
+O00452,Smart Watch,Wearables,4,49492,197968,Hyderabad,Card,Pending,Customer_135
+O00453,Mobile,Electronics,3,28285,84855,Bangalore,UPI,Cancelled,Customer_129
+O00454,Camera,Electronics,5,4058,20290,Chennai,Card,Pending,Customer_173
+O00455,Headphones,Accessories,4,12905,51620,Mumbai,UPI,Completed,Customer_140
+O00456,Headphones,Accessories,2,36147,72294,Delhi,Card,Completed,Customer_44
+O00457,Tablet,Electronics,3,27477,82431,Mumbai,Card,Cancelled,Customer_80
+O00458,Headphones,Accessories,2,45472,90944,Chennai,Net Banking,Cancelled,Customer_124
+O00459,Keyboard,Accessories,2,885,1770,Hyderabad,Net Banking,Completed,Customer_165
+O00460,Tablet,Electronics,3,9242,27726,Chennai,Card,Cancelled,Customer_145
+O00461,Keyboard,Accessories,3,41748,125244,Kolkata,Cash,Cancelled,Customer_109
+O00462,Headphones,Accessories,2,39735,79470,Bangalore,Net Banking,Completed,Customer_30
+O00463,Mouse,Accessories,1,24124,24124,Bangalore,Card,Completed,Customer_16
+O00464,Mouse,Accessories,3,13418,40254,Mumbai,UPI,Pending,Customer_29
+O00465,Headphones,Accessories,3,29668,89004,Bangalore,UPI,Pending,Customer_44
+O00466,Mobile,Electronics,1,1208,1208,Bangalore,Net Banking,Completed,Customer_192
+O00467,Tablet,Electronics,5,17829,89145,Mumbai,Net Banking,Pending,Customer_126
+O00468,Keyboard,Accessories,5,21590,107950,Mumbai,UPI,Completed,Customer_165
+O00469,Mouse,Accessories,5,48383,241915,Chennai,UPI,Cancelled,Customer_63
+O00470,Mobile,Electronics,2,49484,98968,Mumbai,Cash,Pending,Customer_38
+O00471,Mouse,Accessories,3,12672,38016,Chennai,Card,Completed,Customer_185
+O00472,Mouse,Accessories,5,21908,109540,Bangalore,Card,Cancelled,Customer_92
+O00473,Tablet,Electronics,2,24651,49302,Pune,UPI,Pending,Customer_62
+O00474,Laptop,Electronics,1,7527,7527,Hyderabad,Net Banking,Completed,Customer_56
+O00475,Camera,Electronics,4,33237,132948,Chennai,Card,Pending,Customer_155
+O00476,Mobile,Electronics,2,45587,91174,Pune,Card,Completed,Customer_114
+O00477,Smart Watch,Wearables,1,3117,3117,Kolkata,Net Banking,Pending,Customer_49
+O00478,Keyboard,Accessories,3,683,2049,Mumbai,Net Banking,Completed,Customer_73
+O00479,Mobile,Electronics,1,34226,34226,Chennai,Net Banking,Pending,Customer_17
+O00480,Camera,Electronics,1,44153,44153,Kolkata,Card,Cancelled,Customer_43
+O00481,Smart Watch,Wearables,3,774,2322,Bangalore,UPI,Cancelled,Customer_51
+O00482,Camera,Electronics,1,36067,36067,Delhi,Net Banking,Pending,Customer_137
+O00483,Headphones,Accessories,4,40416,161664,Hyderabad,Cash,Completed,Customer_186
+O00484,Tablet,Electronics,5,43651,218255,Delhi,Net Banking,Pending,Customer_124
+O00485,Headphones,Accessories,3,23005,69015,Hyderabad,Cash,Completed,Customer_57
+O00486,Camera,Electronics,1,10128,10128,Chennai,UPI,Cancelled,Customer_149
+O00487,Smart Watch,Wearables,3,35232,105696,Pune,Net Banking,Pending,Customer_67
+O00488,Mobile,Electronics,2,12329,24658,Pune,Cash,Completed,Customer_65
+O00489,Mobile,Electronics,2,35284,70568,Chennai,UPI,Cancelled,Customer_126
+O00490,Keyboard,Accessories,5,30525,152625,Pune,Cash,Cancelled,Customer_132
+O00491,Mobile,Electronics,4,45031,180124,Mumbai,Net Banking,Completed,Customer_129
+O00492,Mobile,Electronics,5,7190,35950,Bangalore,Net Banking,Cancelled,Customer_44
+O00493,Keyboard,Accessories,5,31636,158180,Kolkata,Cash,Completed,Customer_96
+O00494,Laptop,Electronics,4,16025,64100,Mumbai,UPI,Completed,Customer_4
+O00495,Keyboard,Accessories,4,20156,80624,Mumbai,Card,Pending,Customer_23
+O00496,Keyboard,Accessories,5,8017,40085,Chennai,UPI,Completed,Customer_94
+O00497,Tablet,Electronics,1,17252,17252,Mumbai,Card,Pending,Customer_132
+O00498,Tablet,Electronics,4,3351,13404,Kolkata,UPI,Completed,Customer_92
+O00499,Tablet,Electronics,5,7903,39515,Mumbai,Card,Pending,Customer_91
+O00500,Keyboard,Accessories,4,1894,7576,Kolkata,Net Banking,Completed,Customer_6
+O00501,Camera,Electronics,1,5333,5333,Kolkata,UPI,Completed,Customer_39
+O00502,Mouse,Accessories,4,9953,39812,Hyderabad,UPI,Cancelled,Customer_177
+O00503,Mouse,Accessories,4,1404,5616,Mumbai,UPI,Completed,Customer_125
+O00504,Camera,Electronics,1,2823,2823,Mumbai,Card,Cancelled,Customer_166
+O00505,Smart Watch,Wearables,4,10873,43492,Chennai,Net Banking,Pending,Customer_59
+O00506,Mobile,Electronics,3,22079,66237,Hyderabad,Card,Pending,Customer_34
+O00507,Laptop,Electronics,2,11623,23246,Kolkata,UPI,Cancelled,Customer_120
+O00508,Tablet,Electronics,5,31197,155985,Bangalore,UPI,Pending,Customer_2
+O00509,Tablet,Electronics,5,32182,160910,Delhi,Card,Completed,Customer_64
+O00510,Camera,Electronics,5,3474,17370,Chennai,Card,Cancelled,Customer_172
+O00511,Headphones,Accessories,3,25694,77082,Delhi,Cash,Cancelled,Customer_68
+O00512,Tablet,Electronics,5,38086,190430,Hyderabad,Card,Cancelled,Customer_9
+O00513,Mobile,Electronics,2,28434,56868,Chennai,Cash,Pending,Customer_73
+O00514,Keyboard,Accessories,2,45151,90302,Mumbai,UPI,Pending,Customer_190
+O00515,Tablet,Electronics,5,42129,210645,Pune,UPI,Cancelled,Customer_184
+O00516,Smart Watch,Wearables,3,4461,13383,Chennai,UPI,Cancelled,Customer_83
+O00517,Camera,Electronics,5,24570,122850,Pune,Card,Pending,Customer_39
+O00518,Headphones,Accessories,2,973,1946,Kolkata,Net Banking,Pending,Customer_115
+O00519,Smart Watch,Wearables,5,20318,101590,Pune,Cash,Completed,Customer_78
+O00520,Mouse,Accessories,3,48122,144366,Hyderabad,UPI,Completed,Customer_49
+O00521,Mobile,Electronics,5,12214,61070,Delhi,UPI,Pending,Customer_92
+O00522,Smart Watch,Wearables,1,32253,32253,Delhi,Card,Pending,Customer_66
+O00523,Laptop,Electronics,2,41554,83108,Delhi,Card,Cancelled,Customer_6
+O00524,Keyboard,Accessories,1,26686,26686,Bangalore,Card,Cancelled,Customer_73
+O00525,Mobile,Electronics,2,16342,32684,Chennai,Cash,Completed,Customer_154
+O00526,Laptop,Electronics,1,5313,5313,Kolkata,UPI,Cancelled,Customer_35
+O00527,Laptop,Electronics,2,18236,36472,Hyderabad,Cash,Cancelled,Customer_83
+O00528,Laptop,Electronics,2,21572,43144,Delhi,Cash,Cancelled,Customer_125
+O00529,Smart Watch,Wearables,5,44996,224980,Kolkata,UPI,Completed,Customer_15
+O00530,Smart Watch,Wearables,1,6214,6214,Chennai,UPI,Pending,Customer_154
+O00531,Smart Watch,Wearables,3,30867,92601,Kolkata,Cash,Completed,Customer_82
+O00532,Tablet,Electronics,1,27706,27706,Hyderabad,UPI,Completed,Customer_24
+O00533,Laptop,Electronics,2,14294,28588,Pune,Cash,Pending,Customer_93
+O00534,Smart Watch,Wearables,3,35801,107403,Chennai,Card,Cancelled,Customer_155
+O00535,Tablet,Electronics,2,49067,98134,Hyderabad,UPI,Cancelled,Customer_123
+O00536,Laptop,Electronics,3,43205,129615,Kolkata,Net Banking,Cancelled,Customer_72
+O00537,Tablet,Electronics,5,35210,176050,Delhi,Card,Pending,Customer_3
+O00538,Camera,Electronics,1,43449,43449,Kolkata,UPI,Completed,Customer_161
+O00539,Keyboard,Accessories,4,6392,25568,Mumbai,Card,Completed,Customer_16
+O00540,Keyboard,Accessories,5,12415,62075,Delhi,UPI,Cancelled,Customer_39
+O00541,Headphones,Accessories,2,35135,70270,Mumbai,UPI,Cancelled,Customer_63
+O00542,Camera,Electronics,4,14468,57872,Chennai,UPI,Pending,Customer_118
+O00543,Keyboard,Accessories,3,2234,6702,Mumbai,Cash,Completed,Customer_166
+O00544,Smart Watch,Wearables,3,4431,13293,Pune,Net Banking,Pending,Customer_97
+O00545,Keyboard,Accessories,1,17010,17010,Mumbai,UPI,Cancelled,Customer_112
+O00546,Keyboard,Accessories,2,23719,47438,Pune,UPI,Pending,Customer_165
+O00547,Mouse,Accessories,3,33176,99528,Pune,Card,Pending,Customer_197
+O00548,Mouse,Accessories,2,20166,40332,Delhi,Cash,Pending,Customer_2
+O00549,Camera,Electronics,2,11090,22180,Delhi,Net Banking,Completed,Customer_149
+O00550,Laptop,Electronics,2,48702,97404,Delhi,Cash,Pending,Customer_47
+O00551,Smart Watch,Wearables,2,20003,40006,Chennai,Cash,Completed,Customer_39
+O00552,Laptop,Electronics,2,20338,40676,Pune,UPI,Completed,Customer_193
+O00553,Headphones,Accessories,4,45245,180980,Bangalore,Cash,Pending,Customer_87
+O00554,Smart Watch,Wearables,3,2657,7971,Hyderabad,Card,Completed,Customer_161
+O00555,Laptop,Electronics,1,9336,9336,Hyderabad,Card,Cancelled,Customer_111
+O00556,Mobile,Electronics,1,3666,3666,Delhi,Cash,Completed,Customer_31
+O00557,Camera,Electronics,2,34933,69866,Bangalore,Cash,Completed,Customer_58
+O00558,Headphones,Accessories,5,33315,166575,Mumbai,UPI,Pending,Customer_20
+O00559,Tablet,Electronics,2,15177,30354,Chennai,Cash,Pending,Customer_181
+O00560,Headphones,Accessories,1,17843,17843,Delhi,Cash,Completed,Customer_51
+O00561,Laptop,Electronics,4,36978,147912,Delhi,UPI,Completed,Customer_84
+O00562,Laptop,Electronics,4,36149,144596,Delhi,UPI,Cancelled,Customer_106
+O00563,Mouse,Accessories,4,28153,112612,Delhi,Net Banking,Pending,Customer_39
+O00564,Smart Watch,Wearables,4,27367,109468,Kolkata,Card,Cancelled,Customer_2
+O00565,Keyboard,Accessories,5,33336,166680,Delhi,Net Banking,Completed,Customer_51
+O00566,Mobile,Electronics,1,41186,41186,Kolkata,Cash,Cancelled,Customer_13
+O00567,Smart Watch,Wearables,5,21758,108790,Chennai,Net Banking,Cancelled,Customer_172
+O00568,Tablet,Electronics,4,38360,153440,Mumbai,Net Banking,Cancelled,Customer_166
+O00569,Camera,Electronics,5,22936,114680,Hyderabad,Net Banking,Completed,Customer_162
+O00570,Smart Watch,Wearables,3,47172,141516,Mumbai,Net Banking,Cancelled,Customer_69
+O00571,Tablet,Electronics,1,41715,41715,Kolkata,Card,Cancelled,Customer_196
+O00572,Mouse,Accessories,3,31516,94548,Kolkata,UPI,Cancelled,Customer_151
+O00573,Camera,Electronics,5,14998,74990,Pune,Cash,Cancelled,Customer_94
+O00574,Keyboard,Accessories,5,11584,57920,Kolkata,UPI,Completed,Customer_173
+O00575,Headphones,Accessories,2,43872,87744,Bangalore,Card,Cancelled,Customer_167
+O00576,Laptop,Electronics,3,25486,76458,Delhi,Net Banking,Completed,Customer_105
+O00577,Headphones,Accessories,3,25085,75255,Mumbai,UPI,Pending,Customer_170
+O00578,Mouse,Accessories,4,43900,175600,Mumbai,UPI,Pending,Customer_75
+O00579,Camera,Electronics,1,29946,29946,Chennai,Net Banking,Cancelled,Customer_45
+O00580,Headphones,Accessories,1,45076,45076,Pune,UPI,Pending,Customer_134
+O00581,Keyboard,Accessories,5,24799,123995,Hyderabad,UPI,Pending,Customer_65
+O00582,Laptop,Electronics,5,13663,68315,Mumbai,UPI,Completed,Customer_152
+O00583,Headphones,Accessories,3,47566,142698,Hyderabad,UPI,Pending,Customer_66
+O00584,Keyboard,Accessories,3,29209,87627,Mumbai,Net Banking,Completed,Customer_52
+O00585,Headphones,Accessories,4,19535,78140,Hyderabad,UPI,Completed,Customer_184
+O00586,Camera,Electronics,4,24563,98252,Mumbai,UPI,Pending,Customer_111
+O00587,Mouse,Accessories,3,16138,48414,Bangalore,Card,Cancelled,Customer_50
+O00588,Tablet,Electronics,1,44120,44120,Pune,UPI,Completed,Customer_21
+O00589,Camera,Electronics,4,26272,105088,Hyderabad,Net Banking,Pending,Customer_165
+O00590,Laptop,Electronics,1,39348,39348,Hyderabad,Net Banking,Pending,Customer_180
+O00591,Smart Watch,Wearables,4,31538,126152,Pune,Cash,Pending,Customer_102
+O00592,Camera,Electronics,2,34040,68080,Kolkata,Cash,Cancelled,Customer_60
+O00593,Keyboard,Accessories,4,35998,143992,Mumbai,UPI,Cancelled,Customer_85
+O00594,Smart Watch,Wearables,4,8241,32964,Mumbai,Card,Completed,Customer_147
+O00595,Laptop,Electronics,1,33067,33067,Mumbai,Card,Cancelled,Customer_117
+O00596,Laptop,Electronics,2,47100,94200,Delhi,Net Banking,Completed,Customer_141
+O00597,Smart Watch,Wearables,5,9689,48445,Bangalore,Cash,Cancelled,Customer_38
+O00598,Tablet,Electronics,3,12968,38904,Hyderabad,Cash,Completed,Customer_138
+O00599,Mouse,Accessories,5,17692,88460,Mumbai,UPI,Pending,Customer_66
+O00600,Mouse,Accessories,5,26372,131860,Hyderabad,Net Banking,Cancelled,Customer_14
+O00601,Mouse,Accessories,3,16787,50361,Kolkata,Net Banking,Pending,Customer_139
+O00602,Mouse,Accessories,3,13738,41214,Pune,Cash,Completed,Customer_138
+O00603,Tablet,Electronics,4,43512,174048,Bangalore,Card,Pending,Customer_88
+O00604,Keyboard,Accessories,4,46828,187312,Hyderabad,Cash,Cancelled,Customer_81
+O00605,Laptop,Electronics,5,4932,24660,Bangalore,UPI,Completed,Customer_71
+O00606,Keyboard,Accessories,4,19605,78420,Pune,Card,Cancelled,Customer_157
+O00607,Camera,Electronics,4,48197,192788,Bangalore,Card,Completed,Customer_15
+O00608,Headphones,Accessories,4,42395,169580,Mumbai,Cash,Completed,Customer_19
+O00609,Camera,Electronics,2,1430,2860,Chennai,Card,Pending,Customer_57
+O00610,Mouse,Accessories,2,35525,71050,Kolkata,Card,Completed,Customer_200
+O00611,Keyboard,Accessories,5,7110,35550,Bangalore,Cash,Completed,Customer_24
+O00612,Laptop,Electronics,4,15164,60656,Chennai,UPI,Cancelled,Customer_114
+O00613,Smart Watch,Wearables,2,4213,8426,Chennai,Card,Completed,Customer_41
+O00614,Camera,Electronics,3,15748,47244,Kolkata,UPI,Cancelled,Customer_144
+O00615,Headphones,Accessories,3,17410,52230,Delhi,Card,Completed,Customer_171
+O00616,Keyboard,Accessories,4,2658,10632,Delhi,Net Banking,Completed,Customer_165
+O00617,Mouse,Accessories,2,43414,86828,Hyderabad,Cash,Completed,Customer_119
+O00618,Headphones,Accessories,2,28671,57342,Delhi,Net Banking,Completed,Customer_10
+O00619,Tablet,Electronics,1,43589,43589,Pune,Cash,Pending,Customer_126
+O00620,Tablet,Electronics,1,49676,49676,Kolkata,Net Banking,Completed,Customer_52
+O00621,Camera,Electronics,3,20354,61062,Hyderabad,Cash,Completed,Customer_36
+O00622,Camera,Electronics,3,15388,46164,Hyderabad,UPI,Completed,Customer_149
+O00623,Mobile,Electronics,1,23063,23063,Pune,Card,Cancelled,Customer_77
+O00624,Laptop,Electronics,2,22332,44664,Delhi,Net Banking,Pending,Customer_64
+O00625,Tablet,Electronics,3,12221,36663,Mumbai,UPI,Completed,Customer_186
+O00626,Camera,Electronics,1,49452,49452,Hyderabad,Cash,Completed,Customer_153
+O00627,Smart Watch,Wearables,4,2852,11408,Mumbai,Cash,Cancelled,Customer_149
+O00628,Mobile,Electronics,4,42889,171556,Chennai,Card,Pending,Customer_148
+O00629,Tablet,Electronics,1,25057,25057,Chennai,Card,Pending,Customer_44
+O00630,Mobile,Electronics,3,824,2472,Kolkata,Net Banking,Pending,Customer_39
+O00631,Mouse,Accessories,1,7481,7481,Pune,Cash,Completed,Customer_128
+O00632,Mouse,Accessories,5,35957,179785,Mumbai,UPI,Pending,Customer_63
+O00633,Headphones,Accessories,5,35592,177960,Mumbai,UPI,Pending,Customer_51
+O00634,Mouse,Accessories,4,36891,147564,Pune,Card,Completed,Customer_187
+O00635,Keyboard,Accessories,1,1490,1490,Mumbai,Cash,Pending,Customer_180
+O00636,Keyboard,Accessories,2,6204,12408,Kolkata,Card,Completed,Customer_68
+O00637,Laptop,Electronics,4,26273,105092,Hyderabad,Cash,Pending,Customer_146
+O00638,Mobile,Electronics,1,44008,44008,Hyderabad,Card,Completed,Customer_63
+O00639,Laptop,Electronics,2,5287,10574,Hyderabad,UPI,Completed,Customer_11
+O00640,Keyboard,Accessories,5,45840,229200,Pune,UPI,Pending,Customer_22
+O00641,Camera,Electronics,5,12480,62400,Mumbai,UPI,Pending,Customer_105
+O00642,Laptop,Electronics,1,16545,16545,Pune,Card,Completed,Customer_89
+O00643,Headphones,Accessories,2,13489,26978,Pune,UPI,Cancelled,Customer_18
+O00644,Laptop,Electronics,4,2972,11888,Bangalore,UPI,Completed,Customer_193
+O00645,Mobile,Electronics,2,41470,82940,Mumbai,UPI,Pending,Customer_24
+O00646,Tablet,Electronics,5,11131,55655,Kolkata,Net Banking,Cancelled,Customer_198
+O00647,Camera,Electronics,2,17493,34986,Kolkata,UPI,Completed,Customer_191
+O00648,Camera,Electronics,5,11295,56475,Bangalore,Net Banking,Cancelled,Customer_132
+O00649,Mouse,Accessories,5,35343,176715,Chennai,Cash,Completed,Customer_65
+O00650,Keyboard,Accessories,2,13477,26954,Hyderabad,Net Banking,Cancelled,Customer_61
+O00651,Camera,Electronics,5,45413,227065,Chennai,Cash,Pending,Customer_170
+O00652,Smart Watch,Wearables,3,25339,76017,Bangalore,Cash,Completed,Customer_168
+O00653,Tablet,Electronics,5,28457,142285,Kolkata,UPI,Completed,Customer_77
+O00654,Camera,Electronics,5,1571,7855,Mumbai,Net Banking,Pending,Customer_106
+O00655,Mouse,Accessories,4,10057,40228,Delhi,Card,Completed,Customer_91
+O00656,Smart Watch,Wearables,4,41084,164336,Mumbai,UPI,Pending,Customer_23
+O00657,Mouse,Accessories,2,46452,92904,Bangalore,Net Banking,Cancelled,Customer_138
+O00658,Keyboard,Accessories,1,14676,14676,Chennai,Cash,Pending,Customer_48
+O00659,Smart Watch,Wearables,3,22301,66903,Pune,UPI,Completed,Customer_58
+O00660,Tablet,Electronics,5,26344,131720,Delhi,Net Banking,Pending,Customer_130
+O00661,Keyboard,Accessories,2,26120,52240,Hyderabad,Cash,Completed,Customer_45
+O00662,Mobile,Electronics,2,30290,60580,Hyderabad,UPI,Cancelled,Customer_91
+O00663,Mobile,Electronics,5,48640,243200,Kolkata,Net Banking,Completed,Customer_193
+O00664,Mouse,Accessories,4,5474,21896,Hyderabad,UPI,Pending,Customer_69
+O00665,Mouse,Accessories,3,20510,61530,Chennai,Net Banking,Cancelled,Customer_174
+O00666,Laptop,Electronics,4,32831,131324,Delhi,Cash,Completed,Customer_175
+O00667,Mobile,Electronics,5,25218,126090,Bangalore,UPI,Cancelled,Customer_39
+O00668,Camera,Electronics,1,21812,21812,Bangalore,Card,Completed,Customer_70
+O00669,Headphones,Accessories,2,39005,78010,Hyderabad,Cash,Pending,Customer_45
+O00670,Mouse,Accessories,2,19582,39164,Kolkata,Cash,Pending,Customer_141
+O00671,Smart Watch,Wearables,1,44834,44834,Chennai,Net Banking,Pending,Customer_182
+O00672,Tablet,Electronics,3,21746,65238,Pune,Net Banking,Completed,Customer_137
+O00673,Tablet,Electronics,2,13658,27316,Hyderabad,Cash,Completed,Customer_79
+O00674,Headphones,Accessories,3,4005,12015,Hyderabad,UPI,Pending,Customer_199
+O00675,Tablet,Electronics,2,18348,36696,Delhi,Net Banking,Completed,Customer_159
+O00676,Tablet,Electronics,4,26916,107664,Mumbai,UPI,Pending,Customer_101
+O00677,Tablet,Electronics,4,31469,125876,Delhi,Cash,Completed,Customer_160
+O00678,Camera,Electronics,5,27255,136275,Chennai,Card,Pending,Customer_12
+O00679,Headphones,Accessories,3,35606,106818,Bangalore,Net Banking,Completed,Customer_71
+O00680,Smart Watch,Wearables,3,47509,142527,Bangalore,UPI,Cancelled,Customer_32
+O00681,Mouse,Accessories,4,1269,5076,Mumbai,UPI,Pending,Customer_155
+O00682,Tablet,Electronics,3,16449,49347,Mumbai,Cash,Cancelled,Customer_174
+O00683,Smart Watch,Wearables,1,20616,20616,Pune,Card,Cancelled,Customer_163
+O00684,Mobile,Electronics,4,26353,105412,Kolkata,UPI,Pending,Customer_101
+O00685,Camera,Electronics,3,23419,70257,Kolkata,Card,Cancelled,Customer_37
+O00686,Smart Watch,Wearables,3,9253,27759,Pune,UPI,Cancelled,Customer_17
+O00687,Smart Watch,Wearables,1,33407,33407,Mumbai,Card,Cancelled,Customer_111
+O00688,Smart Watch,Wearables,2,38099,76198,Chennai,UPI,Cancelled,Customer_34
+O00689,Headphones,Accessories,2,44510,89020,Kolkata,Card,Cancelled,Customer_32
+O00690,Mouse,Accessories,1,49193,49193,Kolkata,Net Banking,Pending,Customer_34
+O00691,Smart Watch,Wearables,5,18527,92635,Chennai,Cash,Cancelled,Customer_155
+O00692,Mouse,Accessories,5,14464,72320,Pune,UPI,Completed,Customer_93
+O00693,Mobile,Electronics,3,2028,6084,Chennai,Cash,Completed,Customer_84
+O00694,Keyboard,Accessories,1,30498,30498,Chennai,Card,Pending,Customer_71
+O00695,Laptop,Electronics,4,39182,156728,Hyderabad,Cash,Completed,Customer_138
+O00696,Camera,Electronics,1,32201,32201,Pune,UPI,Cancelled,Customer_88
+O00697,Tablet,Electronics,5,37754,188770,Pune,Card,Cancelled,Customer_54
+O00698,Mouse,Accessories,5,35697,178485,Chennai,Cash,Completed,Customer_200
+O00699,Headphones,Accessories,1,33574,33574,Delhi,Net Banking,Pending,Customer_17
+O00700,Mouse,Accessories,1,38833,38833,Mumbai,Net Banking,Pending,Customer_132
+O00701,Smart Watch,Wearables,2,44193,88386,Kolkata,Cash,Pending,Customer_137
+O00702,Tablet,Electronics,3,5178,15534,Chennai,Net Banking,Cancelled,Customer_35
+O00703,Smart Watch,Wearables,4,45239,180956,Chennai,Net Banking,Completed,Customer_88
+O00704,Keyboard,Accessories,1,26902,26902,Pune,UPI,Completed,Customer_20
+O00705,Laptop,Electronics,4,13456,53824,Kolkata,Card,Pending,Customer_52
+O00706,Mouse,Accessories,1,48953,48953,Chennai,Cash,Completed,Customer_91
+O00707,Keyboard,Accessories,4,1352,5408,Kolkata,UPI,Cancelled,Customer_91
+O00708,Headphones,Accessories,5,41933,209665,Delhi,UPI,Pending,Customer_27
+O00709,Laptop,Electronics,2,45806,91612,Delhi,Net Banking,Completed,Customer_183
+O00710,Camera,Electronics,1,22974,22974,Mumbai,Card,Pending,Customer_200
+O00711,Camera,Electronics,4,5922,23688,Delhi,UPI,Pending,Customer_33
+O00712,Mobile,Electronics,5,37424,187120,Delhi,Net Banking,Completed,Customer_91
+O00713,Mouse,Accessories,1,13154,13154,Chennai,UPI,Cancelled,Customer_112
+O00714,Smart Watch,Wearables,2,29118,58236,Pune,Card,Completed,Customer_29
+O00715,Keyboard,Accessories,5,35317,176585,Bangalore,Cash,Completed,Customer_23
+O00716,Camera,Electronics,1,13866,13866,Hyderabad,Cash,Pending,Customer_87
+O00717,Camera,Electronics,4,42408,169632,Pune,Cash,Completed,Customer_53
+O00718,Tablet,Electronics,4,7316,29264,Mumbai,Card,Completed,Customer_113
+O00719,Camera,Electronics,5,38873,194365,Chennai,Net Banking,Completed,Customer_146
+O00720,Laptop,Electronics,4,11573,46292,Bangalore,Card,Cancelled,Customer_167
+O00721,Camera,Electronics,4,40207,160828,Pune,Cash,Pending,Customer_154
+O00722,Smart Watch,Wearables,1,46357,46357,Pune,Card,Completed,Customer_101
+O00723,Keyboard,Accessories,1,16400,16400,Mumbai,Card,Completed,Customer_10
+O00724,Camera,Electronics,1,26844,26844,Pune,Card,Cancelled,Customer_12
+O00725,Smart Watch,Wearables,3,3208,9624,Pune,Net Banking,Completed,Customer_123
+O00726,Mobile,Electronics,1,12751,12751,Pune,Card,Cancelled,Customer_132
+O00727,Tablet,Electronics,1,33910,33910,Kolkata,Net Banking,Completed,Customer_19
+O00728,Laptop,Electronics,5,42984,214920,Kolkata,Cash,Cancelled,Customer_144
+O00729,Mobile,Electronics,1,43848,43848,Hyderabad,UPI,Pending,Customer_102
+O00730,Laptop,Electronics,5,49324,246620,Pune,Cash,Completed,Customer_130
+O00731,Camera,Electronics,2,8505,17010,Chennai,Card,Cancelled,Customer_110
+O00732,Mobile,Electronics,5,6159,30795,Hyderabad,UPI,Cancelled,Customer_25
+O00733,Mobile,Electronics,2,7146,14292,Mumbai,UPI,Pending,Customer_78
+O00734,Mouse,Accessories,3,10187,30561,Bangalore,UPI,Completed,Customer_2
+O00735,Mobile,Electronics,1,3354,3354,Mumbai,Card,Cancelled,Customer_99
+O00736,Camera,Electronics,4,40543,162172,Hyderabad,Card,Cancelled,Customer_193
+O00737,Mobile,Electronics,1,4360,4360,Chennai,Cash,Cancelled,Customer_175
+O00738,Headphones,Accessories,4,4092,16368,Pune,UPI,Pending,Customer_66
+O00739,Headphones,Accessories,3,20195,60585,Kolkata,UPI,Completed,Customer_84
+O00740,Smart Watch,Wearables,1,11125,11125,Bangalore,Card,Cancelled,Customer_168
+O00741,Camera,Electronics,5,49869,249345,Kolkata,UPI,Pending,Customer_64
+O00742,Laptop,Electronics,4,35747,142988,Mumbai,UPI,Completed,Customer_140
+O00743,Tablet,Electronics,3,613,1839,Kolkata,Card,Pending,Customer_21
+O00744,Headphones,Accessories,1,2818,2818,Kolkata,UPI,Pending,Customer_161
+O00745,Tablet,Electronics,3,4711,14133,Hyderabad,Cash,Pending,Customer_42
+O00746,Keyboard,Accessories,5,3999,19995,Chennai,Card,Pending,Customer_133
+O00747,Mobile,Electronics,2,14790,29580,Delhi,Cash,Cancelled,Customer_67
+O00748,Smart Watch,Wearables,1,12052,12052,Hyderabad,Net Banking,Cancelled,Customer_176
+O00749,Headphones,Accessories,3,49857,149571,Bangalore,Card,Pending,Customer_66
+O00750,Laptop,Electronics,1,45795,45795,Kolkata,Card,Cancelled,Customer_67
+O00751,Headphones,Accessories,1,39681,39681,Mumbai,Net Banking,Pending,Customer_20
+O00752,Mobile,Electronics,1,35606,35606,Mumbai,Cash,Pending,Customer_20
+O00753,Headphones,Accessories,5,7896,39480,Chennai,Net Banking,Cancelled,Customer_131
+O00754,Mouse,Accessories,4,12158,48632,Mumbai,UPI,Pending,Customer_102
+O00755,Smart Watch,Wearables,2,29658,59316,Chennai,Cash,Pending,Customer_88
+O00756,Tablet,Electronics,2,2511,5022,Bangalore,Card,Completed,Customer_54
+O00757,Tablet,Electronics,3,18696,56088,Hyderabad,Cash,Completed,Customer_19
+O00758,Mobile,Electronics,2,43704,87408,Chennai,UPI,Cancelled,Customer_68
+O00759,Headphones,Accessories,1,9914,9914,Bangalore,Cash,Completed,Customer_99
+O00760,Mouse,Accessories,1,37830,37830,Hyderabad,Card,Completed,Customer_17
+O00761,Mouse,Accessories,1,18085,18085,Kolkata,Card,Pending,Customer_94
+O00762,Headphones,Accessories,2,24707,49414,Kolkata,UPI,Pending,Customer_94
+O00763,Headphones,Accessories,5,43962,219810,Mumbai,Card,Completed,Customer_74
+O00764,Smart Watch,Wearables,1,15178,15178,Chennai,Card,Completed,Customer_196
+O00765,Smart Watch,Wearables,3,16285,48855,Chennai,Net Banking,Pending,Customer_2
+O00766,Laptop,Electronics,1,43992,43992,Bangalore,UPI,Completed,Customer_73
+O00767,Laptop,Electronics,4,29227,116908,Bangalore,Cash,Completed,Customer_118
+O00768,Camera,Electronics,1,27021,27021,Mumbai,Net Banking,Pending,Customer_45
+O00769,Keyboard,Accessories,4,29353,117412,Mumbai,Cash,Completed,Customer_18
+O00770,Mouse,Accessories,3,29592,88776,Bangalore,Card,Pending,Customer_143
+O00771,Laptop,Electronics,1,33878,33878,Pune,Net Banking,Cancelled,Customer_56
+O00772,Smart Watch,Wearables,1,4425,4425,Bangalore,Cash,Completed,Customer_134
+O00773,Headphones,Accessories,5,21227,106135,Pune,Cash,Completed,Customer_123
+O00774,Mouse,Accessories,4,30707,122828,Kolkata,Card,Completed,Customer_116
+O00775,Tablet,Electronics,1,13956,13956,Delhi,UPI,Completed,Customer_31
+O00776,Camera,Electronics,4,17363,69452,Pune,Cash,Cancelled,Customer_168
+O00777,Laptop,Electronics,4,45517,182068,Chennai,Cash,Cancelled,Customer_166
+O00778,Keyboard,Accessories,4,44045,176180,Hyderabad,Card,Cancelled,Customer_94
+O00779,Headphones,Accessories,4,21603,86412,Chennai,Cash,Pending,Customer_169
+O00780,Headphones,Accessories,2,1525,3050,Hyderabad,Net Banking,Cancelled,Customer_21
+O00781,Camera,Electronics,2,2853,5706,Delhi,Net Banking,Completed,Customer_50
+O00782,Mouse,Accessories,3,38727,116181,Pune,Cash,Pending,Customer_7
+O00783,Headphones,Accessories,1,24087,24087,Bangalore,Card,Completed,Customer_123
+O00784,Tablet,Electronics,5,49154,245770,Bangalore,Card,Cancelled,Customer_56
+O00785,Keyboard,Accessories,4,13732,54928,Delhi,Net Banking,Pending,Customer_58
+O00786,Tablet,Electronics,1,27171,27171,Pune,UPI,Pending,Customer_172
+O00787,Laptop,Electronics,5,25006,125030,Kolkata,Card,Completed,Customer_1
+O00788,Headphones,Accessories,5,17398,86990,Hyderabad,Net Banking,Pending,Customer_144
+O00789,Smart Watch,Wearables,2,17609,35218,Pune,Cash,Pending,Customer_107
+O00790,Headphones,Accessories,2,34723,69446,Pune,UPI,Completed,Customer_43
+O00791,Keyboard,Accessories,4,11477,45908,Mumbai,Net Banking,Pending,Customer_65
+O00792,Keyboard,Accessories,2,49289,98578,Delhi,Net Banking,Completed,Customer_14
+O00793,Smart Watch,Wearables,1,1647,1647,Delhi,Cash,Pending,Customer_193
+O00794,Headphones,Accessories,2,28030,56060,Mumbai,Net Banking,Pending,Customer_170
+O00795,Mobile,Electronics,4,16474,65896,Bangalore,UPI,Cancelled,Customer_143
+O00796,Keyboard,Accessories,4,5482,21928,Hyderabad,UPI,Cancelled,Customer_98
+O00797,Headphones,Accessories,3,42670,128010,Pune,Net Banking,Pending,Customer_135
+O00798,Mouse,Accessories,1,46443,46443,Chennai,Cash,Cancelled,Customer_175
+O00799,Camera,Electronics,2,44547,89094,Delhi,Cash,Pending,Customer_122
+O00800,Tablet,Electronics,2,31007,62014,Delhi,Card,Pending,Customer_23
